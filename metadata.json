@@ -1,0 +1,6 @@
+{
+  "name": "Panda Run",
+  "description": "A modern TypeScript parkour game where a cute panda runs through a bamboo forest, jumping over obstacles and collecting coins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
